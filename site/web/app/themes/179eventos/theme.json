@@ -8,6 +8,33 @@
           "slug": "primary",
           "color": "#525ddc",
           "name": "Primary"
+        },
+        {
+          "slug": "e179darkblue",
+          "color": "#2B324C",
+          "name": "e179darkblue"
+        },
+        {
+          "slug": "e179blue",
+          "color": "#164B6B",
+          "name": "e179blue"
+        },
+        
+        {
+          "slug": "e179lightblue",
+          "color": "#75AABC",
+          "name": "e179lightblue"
+        },
+          
+        {
+          "slug": "e179rust",
+          "color": "#EBB378",
+          "name": "e179rust"
+        },
+        {
+          "slug": "e179darkrust",
+          "color": "#D28541",
+          "name": "e179darkrust"
         }
       ],
       "custom": false,

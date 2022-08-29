@@ -134,3 +134,21 @@ add_action('widgets_init', function () {
         'id' => 'sidebar-footer',
     ] + $config);
 });
+
+add_action( 'after_setup_theme',  function () {
+
+    add_theme_support(
+		'editor-color-palette', array(
+			array(
+				'name'  => esc_html__( 'Black', '179eventos' ),
+				'slug' => 'black',
+				'color' => '#2a2a2a',
+			),
+			array(
+				'name'  => esc_html__( 'Gray', '179eventos' ),
+				'slug' => 'gray',
+				'color' => '#727477',
+			)
+		)
+	);
+});
