@@ -11,7 +11,7 @@
 </header> --}}
 
 
-<header class="banner fixed top-0 w-full z-50">
+<header class="banner fixed top-0 w-full z-50 pt-20">
   <nav class="nav-primary container py-2 px-4 lg:px-16">
     <div class="flex flex-wrap lg:flex-nowrap justify-center items-center mx-auto">
     <div id="busca" class="flex lg:order-2 ml-8">
@@ -30,7 +30,7 @@
         {{-- <div class="relative mt-3 lg:hidden">
           @include('partials/inputsearch')
         </div> --}}
-        {!! wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'flex flex-col mt-4 items-center font-bold lg:flex-row lg:space-x-8 lg:mt-0 lg:text-sm text-e179darkrust', 'echo' => false]) !!}
+        {!! wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'flex flex-col mt-4 items-center font-bold lg:flex-row lg:space-x-8 lg:mt-0 lg:text-2xl text-e179darkrust uppercase', 'echo' => false]) !!}
       </div>
     </div>
   </nav>
