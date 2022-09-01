@@ -1,6 +1,9 @@
 module.exports = {
   content: ["./index.php", "./app/**/*.php", "./resources/**/*.{php,vue,js}"],
   theme: {
+    container: {
+      center: true,
+    },
     extend: {
       colors: {
         e179darkblue: '#2B324C',
