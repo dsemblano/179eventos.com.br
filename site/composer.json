@@ -42,6 +42,7 @@
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentytwo": "^1.2",
     "wpackagist-plugin/getwid":">=1.8.2",
+    "wpackagist-plugin/mobile-menu":">=2.8.1.8",
     "roots/acorn": "^2.1"
   },
   "require-dev": {
