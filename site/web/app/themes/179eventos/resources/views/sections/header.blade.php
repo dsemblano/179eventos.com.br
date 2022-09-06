@@ -14,7 +14,7 @@
 <header class="banner fixed top-0 w-full z-50 pt-20">
   <nav class="nav-primary container py-2 px-4 lg:px-16">
     <div class="flex flex-wrap lg:flex-nowrap justify-center items-center mx-auto">
-        {!! wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'flex flex-col mt-4 hidden lg:flex items-center font-bold lg:flex-row lg:space-x-8 lg:mt-0 lg:text-2xl text-e179darkrust uppercase', 'echo' => false]) !!}
+        {!! wp_nav_menu(['theme_location' => 'primary_navigation', 'menu_class' => 'flex flex-col mt-4 hidden lg:flex items-center font-bold lg:flex-row lg:space-x-8 lg:mt-0 lg:text-2xl text-white uppercase', 'echo' => false]) !!}
     </div>
   </nav>
 </header>
