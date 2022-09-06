@@ -43,6 +43,7 @@
     "wpackagist-theme/twentytwentytwo": "^1.2",
     "wpackagist-plugin/getwid":">=1.8.2",
     "wpackagist-plugin/mobile-menu":">=2.8.1.8",
+    "wpackagist-plugin/autodescription":">=4.2.5",
     "roots/acorn": "^2.1"
   },
   "require-dev": {
