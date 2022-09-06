@@ -10,7 +10,8 @@ module.exports = {
         e179blue: '#164B6B',
         e179lightblue: '#75AABC',
         e179rust: '#EBB378',
-        e179darkrust: '#D28541'
+        e179darkrust: '#D28541',
+        e179sand: '#FDE3A7',
       },
     },
   },
