@@ -38,7 +38,7 @@ class Randimg extends Composer
 
     public function rnd()
     {
-        return rand (1,3);
+        return rand (1,4);
     }
 
     public function randLogo()
