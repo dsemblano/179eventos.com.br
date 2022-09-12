@@ -10,6 +10,12 @@
   @endif
 </header> --}}
 
+<style type="text/css">
+  body {
+    background: url({{ $randBg }}) no-repeat center center fixed;
+  }
+  </style>
+
 
 <header class="banner top-0 w-full z-50 pt-20">
   <nav class="nav-primary container py-2 px-4 lg:px-16">

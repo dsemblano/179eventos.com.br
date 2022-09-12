@@ -12,6 +12,9 @@ class Randimg extends Composer
      */
     protected static $views = [
         'partials.section1',
+        'partials.page-header',
+        'partials.content',
+        'sections.header',
     ];
 
         /**

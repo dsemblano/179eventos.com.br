@@ -1,8 +1,3 @@
-<style type="text/css">
-  body {
-    background: url({{ $randBg }}) no-repeat center center fixed;
-  }
-  </style>
 <section id="section1" class="container lg:mt-40">
   <!--Left Col-->
   <div class="flex flex-col items-center animate__animated animate__fadeInLeftBig">
